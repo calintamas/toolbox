@@ -5,6 +5,7 @@ A collection of libraries, tools and resources.
 * [Libraries](#libraries)
     * [JS](#js--node)
     * [React Native](#react-native)
+    * [React](#react)
 * [Tools](#tools)
 * [Resources](#resources)
 
@@ -23,6 +24,11 @@ Repo | Description
 [react-native-logs](https://github.com/onubo/react-native-logs) | Bunyan-like react-native logger
 [react-native-dynamic-app-icon](https://github.com/idearockers/react-native-dynamic-app-icon) | Set iOS icons programatically
 [react-native-bundle-visualizer](https://github.com/IjzerenHein/react-native-bundle-visualizer) | Visualize bundle size distribution
+
+### React
+Repo | Description
+---- | -----------
+[why-did-you-render](https://github.com/welldone-software/why-did-you-render) | monkey patches React to notify you about avoidable re-renders
 
 ## Tools
 Repo | Description
