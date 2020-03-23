@@ -36,3 +36,4 @@ Repo | Description
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Design patterns for humans - Javascript edition](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
 - [Bulletproof Node JS architecture](https://github.com/santiq/bulletproof-nodejs)
+- [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks?utm_source=tinyreact&utm_medium=email)
